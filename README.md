@@ -15,4 +15,4 @@ Player 1 set roc
 Player 2 set paper  
 Player 2 WIN!  
 
-Process finished with exit code 0
+Process finished with exit code 0  
