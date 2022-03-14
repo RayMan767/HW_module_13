@@ -17,7 +17,7 @@ public class Referee extends Thread {
     public void run() {
         // Запускаем игроков
         for (Player player : players) {
-            if (player != null)  player.start();
+            if (player != null) player.start();
         }
         while (!isWinner) {
             System.out.println("one");
